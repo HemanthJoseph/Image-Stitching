@@ -42,7 +42,7 @@ RANSAC algorithm
 ## Usage
 * Clone the repo to your local machine
 ```
-git clone [insert GitHub link here]
+git clone https://github.com/HemanthJoseph/Image-Stitching.git
 ```
 * Change Directory
 ```
